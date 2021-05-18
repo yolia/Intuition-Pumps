@@ -1,4 +1,3 @@
-===Daniel is the best===
 
 丹尼特(Daniel Dennett)著作Intuition Pumps读书笔记。
 
