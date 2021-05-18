@@ -1,3 +1,5 @@
+===Daniel is the best===
+
 丹尼特(Daniel Dennett)著作Intuition Pumps读书笔记。
 
 这本书记录了丹尼特常用的一些思维工具。目前自己只是断断续续写了前半部分，待增补。
